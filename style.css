@@ -74,14 +74,13 @@ nav img {
 }
 #ourCourses h1{
     font-size: 40px;
-    margin: 25px 360px;
+    margin: 25px 331px;
 }
 #ourCourses h2{
     font-size: 20px;
     line-height: 33px;
     text-align: center;
-    width: 1070px;
-    margin-left: 150px;
+    margin: 0 20px;
 }
 .coursesLine {
     display: flex;
@@ -89,13 +88,9 @@ nav img {
 .course {
     width: 27%;
     box-shadow: 2px 2px 2px 4px #eae4e4;
-    margin-left: 33px;
+    margin-left: 56px;
     margin-top: 50px;
     margin-bottom: 65px;
-    padding: 18px;
-}
-.course img {
-    padding: 10px;
 }
 .course h4 {
     padding: 10px;
@@ -112,11 +107,13 @@ nav img {
     color: white;
     border-style: none;
     margin-top: 24px;
+    margin-left: 17px;
+    margin-bottom: 20px;
 
 }
 #newsletter {
     background-color: #4a4a4a;
-    padding: 185px 120px;
+    padding: 100px;
 }
 #newsletter p {
     font-size: 35px;
